@@ -1,5 +1,5 @@
-# clojure-katas
-Clojure repository containing various sets of katas.
+# mugen.clojure.katas
+Clojure repository containing various sets of katas from Mugen.
 
 # Usage
 
